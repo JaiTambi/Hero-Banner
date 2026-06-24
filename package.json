@@ -1,0 +1,31 @@
+{
+  "name": "hero-banner",
+  "version": "1.0.0",
+  "description": "A React-based dynamic event banner platform for Poornima College of Engineering. The system automatically displays and rotates event banners according to predefined time slots, highlighting internships, technical communities, hackathons, workshops, placements, and college events through an interactive and responsive user interface.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiTambi/Hero-Banner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JaiTambi/Hero-Banner/issues"
+  },
+  "homepage": "https://github.com/JaiTambi/Hero-Banner#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.1"
+  }
+}
